@@ -52,10 +52,10 @@ p {
 
 .conteudo-titulo {
     position: absolute; /*Para ficar mais fácil de centralizar o conteúdo*/
-    left: 0;
-    top: 45%;
-    width: 100%;
-    text-align: center;
+    left: 0; /*Deixado aqui para explicação ficar mais clara*/
+    top: 45%; /*É centralizado baseado no canto superior, e não na caixa como um todo, logo devemos reduzir para que a caixa centralize*/
+    width: 100%; /*Devemos indicar que preencherá toda a tela*/
+    text-align: center; /*Span é um texto, logo, centralizamos ele de forma mais fácil assim*/
     text-transform: uppercase;
 }
 
@@ -63,7 +63,7 @@ p {
 .conteudo-titulo span.titulo{
     color: #fff;
     background-color: #111;
-    padding: 18px;
+    padding: 18px; /*Tamanho da caixa atrás do texto*/
     font-size: 25px;
-    letter-spacing: 5px;
+    letter-spacing: 5px; /*Espaçamento entre letras*/
 }

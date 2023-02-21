@@ -7,4 +7,4 @@ Feito através de instruções de curso programação web da plataforma Udemy.
 
 # Preview
 
-  <img src = "https://im4.ezgif.com/tmp/ezgif-4-7449232ef4.gif">
+  <img src = "https://i.imgur.com/gnceuvE.gif">

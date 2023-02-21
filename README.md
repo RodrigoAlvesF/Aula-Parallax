@@ -7,4 +7,5 @@ Feito através de instruções de curso programação web da plataforma Udemy.
 
 # Preview
 
-  <img src = "https://i.imgur.com/gnceuvE.gif">
+  <img src = "https://i.imgur.com/wzMShhR.gif">
+
